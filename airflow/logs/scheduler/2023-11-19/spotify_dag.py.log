@@ -1,0 +1,95 @@
+[2023-11-19T09:19:15.744+0700] {processor.py:157} INFO - Started process (PID=6428) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:19:15.795+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:19:15.796+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:19:15.796+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:19:15.840+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:19:23.276+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:19:23.275+0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-19T09:19:27.348+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:19:27.347+0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-19T09:19:30.501+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:19:30.500+0700] {manager.py:499} INFO - Created Permission View: %s
+[2023-11-19T09:19:30.501+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:19:30.501+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:19:30.624+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:19:30.623+0700] {dag.py:2963} INFO - Creating ORM DAG for spotify_dag
+[2023-11-19T09:19:30.655+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:19:30.655+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:19:34.119+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 18.428 seconds
+[2023-11-19T09:23:16.127+0700] {processor.py:157} INFO - Started process (PID=7835) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:23:16.128+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:23:16.130+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:23:16.129+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:23:16.269+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:23:16.421+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:23:16.420+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:23:16.462+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:23:16.462+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:23:17.308+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 1.185 seconds
+[2023-11-19T09:24:37.318+0700] {processor.py:157} INFO - Started process (PID=8271) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:24:37.319+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:24:37.320+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:24:37.320+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:24:37.350+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:24:37.376+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:24:37.376+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:24:37.404+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:24:37.404+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:24:37.664+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 0.348 seconds
+[2023-11-19T09:25:45.799+0700] {processor.py:157} INFO - Started process (PID=8413) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:25:45.800+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:25:45.801+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:25:45.801+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:25:45.828+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:25:45.855+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:25:45.854+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:25:45.882+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:25:45.882+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:25:46.887+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 1.091 seconds
+[2023-11-19T09:26:36.009+0700] {processor.py:157} INFO - Started process (PID=8615) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:26:36.010+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:26:36.011+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:26:36.011+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:26:36.038+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:26:36.066+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:26:36.066+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:26:36.093+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:26:36.092+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:26:36.718+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 0.712 seconds
+[2023-11-19T09:33:35.981+0700] {processor.py:157} INFO - Started process (PID=10077) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:33:35.983+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:33:35.984+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:33:35.984+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:33:36.018+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:33:36.149+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:33:36.149+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:33:36.174+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:33:36.174+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:33:38.101+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 2.123 seconds
+[2023-11-19T09:35:09.879+0700] {processor.py:157} INFO - Started process (PID=10716) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:35:09.880+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:35:09.881+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:35:09.881+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:35:09.908+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:35:09.936+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:35:09.936+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:35:09.962+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:35:09.962+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:35:10.643+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 0.767 seconds
+[2023-11-19T09:36:23.268+0700] {processor.py:157} INFO - Started process (PID=10979) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:36:23.269+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:36:23.270+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:36:23.270+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:36:23.301+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:36:23.329+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:36:23.328+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:36:23.355+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:36:23.355+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:36:23.689+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 0.425 seconds
+[2023-11-19T09:37:32.516+0700] {processor.py:157} INFO - Started process (PID=11560) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:37:32.517+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:37:32.518+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:37:32.518+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:37:32.552+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:37:32.580+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:37:32.580+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:37:32.608+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:37:32.608+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:37:34.524+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 2.011 seconds
+[2023-11-19T09:38:47.028+0700] {processor.py:157} INFO - Started process (PID=12219) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:38:47.030+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:38:47.031+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:38:47.030+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:38:47.059+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:38:47.092+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:38:47.092+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:38:47.124+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:38:47.124+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:38:47.395+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 0.369 seconds
+[2023-11-19T09:39:50.631+0700] {processor.py:157} INFO - Started process (PID=12725) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:39:50.633+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:39:50.634+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:39:50.634+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:39:50.674+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:39:50.719+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:39:50.719+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:39:50.752+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:39:50.752+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:39:51.734+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 1.106 seconds
+[2023-11-19T09:48:59.609+0700] {processor.py:157} INFO - Started process (PID=14900) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:48:59.611+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:48:59.612+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:48:59.611+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:49:00.064+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:49:01.820+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:49:01.820+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:49:01.853+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:49:01.853+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:49:02.119+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 2.514 seconds
+[2023-11-19T09:52:37.742+0700] {processor.py:157} INFO - Started process (PID=16187) to work on /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:52:37.743+0700] {processor.py:829} INFO - Processing file /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py for tasks to queue
+[2023-11-19T09:52:37.744+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:52:37.744+0700] {dagbag.py:536} INFO - Filling up the DagBag from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:52:37.777+0700] {processor.py:839} INFO - DAG(s) dict_keys(['spotify_dag']) retrieved from /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py
+[2023-11-19T09:52:37.813+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:52:37.812+0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-11-19T09:52:37.841+0700] {logging_mixin.py:154} INFO - [2023-11-19T09:52:37.841+0700] {dag.py:3722} INFO - Setting next_dagrun for spotify_dag to 2023-11-19T00:00:00+00:00, run_after=2023-11-20T00:00:00+00:00
+[2023-11-19T09:52:38.094+0700] {processor.py:179} INFO - Processing /mnt/c/Users/ASUS/Desktop/ONLINE_COURSE/Data_Engineering/Spotify_API/airflow/dags/spotify_dag.py took 0.355 seconds
